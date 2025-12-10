@@ -97,19 +97,21 @@ I'm a **Graduate Engineer in Automation and Robotics** specializing in **AI-driv
 
 ## 🏆 Featured Projects
 
-### 🤖 [AI Agent Framework for Robotic Automation](https://github.com/thiyanayugi)
+### 🔍 LinkedIn Job Automation
 
-**Multi-Agent System with CLIP Vision & GPT-3.5**
+**Intelligent Job Search & Application Automation**
 
-- Architected multi-agent system integrating CLIP vision, GPT-3.5 NLP, and ChromaDB RAG
-- Implemented LangChain orchestration for task planning with knowledge retrieval
-- Production-quality framework with comprehensive testing and documentation
+- Automated LinkedIn job search and application tracking system
+- Intelligent filtering and matching based on skills and preferences
+- Built with Python for streamlined job hunting workflow
 
-**Tech Stack:** `Python` `LangChain` `CLIP` `GPT-3.5` `ChromaDB` `RAG`
+**Tech Stack:** `Python` `Automation` `Web Scraping`
+
+🔗 **[View Repository](https://github.com/thiyanayugi/linkedin-job-automation)**
 
 ---
 
-### 👁️ [RoboVision-3D: Computer Vision for Indoor Robotics](https://github.com/thiyanayugi)
+### 👁️ RoboVision-3D: Computer Vision for Indoor Robotics
 
 **Multi-Sensor Fusion & 3D Environment Mapping**
 
@@ -119,9 +121,11 @@ I'm a **Graduate Engineer in Automation and Robotics** specializing in **AI-driv
 
 **Tech Stack:** `Python` `YOLOv8` `OpenCV` `PCL` `ROS` `LiDAR`
 
+🔗 **[View Repository](https://github.com/thiyanayugi/RoboVision-3D)**
+
 ---
 
-### � [AI Teaching Platform with Intelligent Chatbot](https://github.com/thiyanayugi)
+### 🎓 AI Teaching Platform with Intelligent Chatbot
 
 **Production Web Platform with Claude API**
 
@@ -129,43 +133,21 @@ I'm a **Graduate Engineer in Automation and Robotics** specializing in **AI-driv
 - Engineered AI-driven personalized email generation system
 - Deployed on Google Cloud Run with automated CI/CD pipeline
 
-**Tech Stack:** `Python` `Claude API` `Google Cloud Run` `Docker` `CI/CD`
+**Tech Stack:** `JavaScript` `Python` `Claude API` `Google Cloud Run` `Docker` `CI/CD`
+
+🔗 **[View Repository](https://github.com/thiyanayugi/teaching-website)**
 
 ---
 
-### � [Edge Detection ROS Challenge: 3D Vision System](https://github.com/thiyanayugi)
+### 🤖 AI Agent Framework for Robotic Automation
 
-**Real-Time Image Processing with ROS**
+**Multi-Agent System with CLIP Vision & GPT-3.5**
 
-- Developed modular edge detection system with ROS service architecture
-- Implemented 3D coordinate conversion using camera intrinsics
-- Built RViz visualization with robot URDF integration
+- Architected multi-agent system integrating CLIP vision, GPT-3.5 NLP, and ChromaDB RAG
+- Implemented LangChain orchestration for task planning with knowledge retrieval
+- Production-quality framework with comprehensive testing and documentation
 
-**Tech Stack:** `ROS` `Python` `OpenCV` `RViz` `ArUco Markers`
-
----
-
-### 🏭 [AI-Powered Industrial Signal Processing System](https://github.com/thiyanayugi)
-
-**Neural Networks for Predictive Maintenance**
-
-- Engineered ANN/CNN models for real-time signal integrity classification
-- Implemented edge-AI monitoring for predictive maintenance
-- Deployed anomaly detection system for manufacturing environments
-
-**Tech Stack:** `Python` `TensorFlow` `Edge AI` `Industrial IoT`
-
----
-
-### 🦾 [Integrated Robotic Automation Platform](https://github.com/thiyanayugi)
-
-**Multi-DOF Robotic Arm with Omnidirectional Base**
-
-- Built and controlled multi-DOF robotic arm for factory automation
-- Developed adaptive motion planning and precision manipulation algorithms
-- Implemented using ROS framework for industrial applications
-
-**Tech Stack:** `ROS` `C++` `Python` `Motion Planning` `Robotics`
+**Tech Stack:** `Python` `LangChain` `CLIP` `GPT-3.5` `ChromaDB` `RAG`
 
 ---
 
