@@ -14,14 +14,14 @@
 
 ## 🚀 About Me
 
-I'm a **Graduate Engineer in Automation and Robotics** specializing in **AI-driven systems**, **generative AI**, and **autonomous robotics**. Currently pursuing my Master's at **Technical University Dortmund**, I combine cutting-edge AI technologies with real-world robotic applications to build intelligent, scalable solutions.
+I'm a **Graduate Engineer in Automation and Robotics** specializing in **AI-driven systems**, **generative AI**, and **autonomous robotics**. Completing my Master's at **Technical University Dortmund**, I combine cutting-edge AI technologies with real-world robotic applications to build intelligent, scalable solutions.
 
 🎯 **Current Focus:**
 
-- 🧠 Developing **multi-agent AI systems** for robotic automation
-- 📡 Building **6G-enabled collaborative perception** frameworks for multi-robot systems
-- 🤖 Implementing **LLM fine-tuning** and **RAG architectures** for industrial applications
-- 🔬 Researching **Graph Neural Networks** for real-time occupancy prediction
+- 👁️ Developing **computer vision and perception systems** for autonomous robotics
+- 🤖 Building **generative AI solutions** and intelligent automation tools
+- 🧠 Creating **multi-agent AI systems** for robotic automation
+- 📡 Implementing **LLM fine-tuning**, **RAG architectures**, and **knowledge graph** solutions
 
 ---
 
@@ -39,9 +39,9 @@ I'm a **Graduate Engineer in Automation and Robotics** specializing in **AI-driv
 
 **Chair of Material Handling and Warehousing** | _January 2025 - July 2025_
 
-- Developing 6G-enabled collaborative perception framework using mmWave radar
-- Implementing Graph Neural Networks for warehouse environment prediction
-- Conducting validation with dual robotic platforms and motion capture systems
+- Developed 6G-enabled collaborative perception framework using mmWave radar technology
+- Implemented Graph Neural Networks for warehouse environment prediction
+- Conducted validation with dual robotic platforms and motion capture systems
 
 ### 🤖 Robotics Engineering Intern | Pricol Limited
 
@@ -208,20 +208,6 @@ I'm a **Graduate Engineer in Automation and Robotics** specializing in **AI-driv
 
 - Focus: Industrial automation, mobile robotics, control systems
 - Capstone: Autonomous Mobile Robot for industrial logistics
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiyanayugi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiyanayugi&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thiyanayugi&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
