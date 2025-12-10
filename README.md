@@ -151,6 +151,42 @@ I'm a **Graduate Engineer in Automation and Robotics** specializing in **AI-driv
 
 ---
 
+### 🔍 Edge Detection ROS Challenge: 3D Vision System
+
+**Real-Time Image Processing with ROS**
+
+- Developed modular edge detection system with ROS service architecture
+- Implemented 3D coordinate conversion using camera intrinsics
+- Built RViz visualization with robot URDF integration
+
+**Tech Stack:** `ROS` `Python` `OpenCV` `RViz` `ArUco Markers`
+
+---
+
+### 🏭 AI-Powered Industrial Signal Processing System
+
+**Neural Networks for Predictive Maintenance**
+
+- Engineered ANN/CNN models for real-time signal integrity classification
+- Implemented edge-AI monitoring for predictive maintenance
+- Deployed anomaly detection system for manufacturing environments
+
+**Tech Stack:** `Python` `TensorFlow` `Edge AI` `Industrial IoT`
+
+---
+
+### 🦾 Integrated Robotic Automation Platform
+
+**Multi-DOF Robotic Arm with Omnidirectional Base**
+
+- Built and controlled multi-DOF robotic arm for factory automation
+- Developed adaptive motion planning and precision manipulation algorithms
+- Implemented using ROS framework for industrial applications
+
+**Tech Stack:** `ROS` `C++` `Python` `Motion Planning` `Robotics`
+
+---
+
 ## 📜 Certifications
 
 ### ☁️ AWS Training
