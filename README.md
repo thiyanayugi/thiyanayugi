@@ -4,11 +4,26 @@
 
 ### 🤖 AI Engineer | Robotics Specialist | Autonomous Systems Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/thiyanayugi-mariraj-a2b1b820b)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:yugimariraj01@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Dortmund%2C%20Germany-green?style=for-the-badge&logo=google-maps)](https://www.google.com/maps/place/Dortmund)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-FF6B6B?style=for-the-badge)](https://thiyanayugi.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/thiyanayugi-mariraj-a2b1b820b)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:yugimariraj01@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Dortmund%2C%20Germany-34A853?style=for-the-badge&logo=google-maps)](https://www.google.com/maps/place/Dortmund)
 
 </div>
+
+---
+
+## 📑 Table of Contents
+
+- [🚀 About Me](#-about-me)
+- [🌐 Portfolio](#-portfolio)
+- [💼 Professional Experience](#-professional-experience)
+- [🛠️ Technical Arsenal](#️-technical-arsenal)
+- [🏆 Featured Projects](#-featured-projects)
+- [📜 Certifications](#-certifications)
+- [🎓 Education](#-education)
+- [🌐 Languages](#-languages)
+- [📫 Let's Connect](#-lets-connect)
 
 ---
 
@@ -22,6 +37,24 @@ I'm a **Graduate Engineer in Automation and Robotics** specializing in **AI-driv
 - 🤖 Building **generative AI solutions** and intelligent automation tools
 - 🧠 Creating **multi-agent AI systems** for robotic automation
 - 📡 Implementing **LLM fine-tuning**, **RAG architectures**, and **knowledge graph** solutions
+
+---
+
+## 🌐 Portfolio
+
+**Explore my interactive portfolio website for a comprehensive showcase of my work:**
+
+### 🎯 [**thiyanayugi.github.io**](https://thiyanayugi.github.io)
+
+Featuring:
+
+- 📊 **Detailed project showcases** with live demos and technical deep-dives
+- 📝 **Research publications** in robotics and automation
+- 🎓 **Complete certification portfolio** from AWS, DeepLearning.AI, and Hugging Face
+- 💼 **Professional timeline** with hands-on experience in AI and robotics
+- 🤝 **Direct contact** for collaboration opportunities
+
+> _Visit the portfolio for an interactive experience of my journey in AI and Robotics!_
 
 ---
 
@@ -249,8 +282,9 @@ I'm always interested in collaborating on innovative AI and robotics projects, e
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-FF6B6B?style=for-the-badge)](https://thiyanayugi.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiyanayugi-mariraj-a2b1b820b)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yugimariraj01@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yugimariraj01@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+49_163_4253579-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+491634253579)
 
 </div>
@@ -261,6 +295,21 @@ I'm always interested in collaborating on innovative AI and robotics projects, e
   
 ### 💡 *"Building intelligent systems that bridge the gap between AI and the physical world"*
 
+---
+
+## 📊 GitHub Stats
+
 ![Profile Views](https://komarev.com/ghpvc/?username=thiyanayugi&color=blueviolet&style=for-the-badge)
+
+<img src="https://github-readme-stats.vercel.app/api?username=thiyanayugi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thiyanayugi&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiyanayugi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="Top Languages" width="48%" />
+
+---
+
+### ⭐ If you find my work interesting, feel free to star my repositories!
+
+**Made with ❤️ by Thiyanayugi Mariraj**
 
 </div>
