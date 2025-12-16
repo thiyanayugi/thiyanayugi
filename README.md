@@ -118,26 +118,6 @@ I'm a **Graduate Engineer in Automation and Robotics** specializing in **AI-driv
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiyanayugi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiyanayugi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thiyanayugi&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
-
-</div>
-
-<div align="center">
-  
-<img src=".github/assets/workflow.png" alt="Tech Workflow" width="600"/>
-
-</div>
-
----
-
 ## 🌐 Languages
 
 - 🇬🇧 **English** - C2 (Proficient)
