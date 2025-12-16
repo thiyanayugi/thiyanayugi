@@ -1,8 +1,6 @@
-<div align="center">
-  
-# 👋 Hi, I'm Thiyanayugi Mariraj
+![Header Banner](.github/assets/header.png)
 
-### 🤖 AI Engineer | Robotics Specialist | Autonomous Systems Developer
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-FF6B6B?style=for-the-badge)](https://thiyanayugi.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/thiyanayugi-mariraj-a2b1b820b)
@@ -23,6 +21,12 @@ I'm a **Graduate Engineer in Automation and Robotics** specializing in **AI-driv
 - 🤖 Building **generative AI solutions** and intelligent automation tools
 - 🧠 Creating **multi-agent AI systems** for robotic automation
 - 📡 Implementing **LLM fine-tuning**, **RAG architectures**, and **knowledge graph** solutions
+
+<div align="center">
+  
+<img src=".github/assets/robot.png" alt="AI & Robotics" width="400"/>
+
+</div>
 
 ---
 
@@ -114,119 +118,23 @@ I'm a **Graduate Engineer in Automation and Robotics** specializing in **AI-driv
 
 ---
 
-## 🏆 Featured Projects
+## 📊 GitHub Stats & Activity
 
-### 🔍 LinkedIn Job Automation
+<div align="center">
 
-**Intelligent Job Search & Application Automation**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiyanayugi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)
 
-- Automated LinkedIn job search and application tracking system
-- Intelligent filtering and matching based on skills and preferences
-- Built with Python for streamlined job hunting workflow
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiyanayugi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
 
-**Tech Stack:** `Python` `Automation` `Web Scraping`
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thiyanayugi&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
 
-🔗 **[View Repository](https://github.com/thiyanayugi/linkedin-job-automation)**
+</div>
 
----
+<div align="center">
+  
+<img src=".github/assets/workflow.png" alt="Tech Workflow" width="600"/>
 
-### 👁️ RoboVision-3D: Computer Vision for Indoor Robotics
-
-**Multi-Sensor Fusion & 3D Environment Mapping**
-
-- Developed fusion system integrating RGB-D cameras and LiDAR for 3D mapping
-- Implemented YOLOv8-based object detection with PCA-driven 3D bounding boxes
-- Built point cloud colorization pipeline with camera-LiDAR calibration
-
-**Tech Stack:** `Python` `YOLOv8` `OpenCV` `PCL` `ROS` `LiDAR`
-
-🔗 **[View Repository](https://github.com/thiyanayugi/RoboVision-3D)**
-
----
-
-### 🎓 AI Teaching Platform with Intelligent Chatbot
-
-**Production Web Platform with Claude API**
-
-- Built bilingual platform with Claude API-powered intelligent assistant
-- Engineered AI-driven personalized email generation system
-- Deployed on Google Cloud Run with automated CI/CD pipeline
-
-**Tech Stack:** `JavaScript` `Python` `Claude API` `Google Cloud Run` `Docker` `CI/CD`
-
-🔗 **[View Repository](https://github.com/thiyanayugi/teaching-website)**
-
----
-
-### 🤖 AI Agent Framework for Robotic Automation
-
-**Multi-Agent System with CLIP Vision & GPT-3.5**
-
-- Architected multi-agent system integrating CLIP vision, GPT-3.5 NLP, and ChromaDB RAG
-- Implemented LangChain orchestration for task planning with knowledge retrieval
-- Production-quality framework with comprehensive testing and documentation
-
-**Tech Stack:** `Python` `LangChain` `CLIP` `GPT-3.5` `ChromaDB` `RAG`
-
----
-
-### 🔍 Edge Detection ROS Challenge: 3D Vision System
-
-**Real-Time Image Processing with ROS**
-
-- Developed modular edge detection system with ROS service architecture
-- Implemented 3D coordinate conversion using camera intrinsics
-- Built RViz visualization with robot URDF integration
-
-**Tech Stack:** `ROS` `Python` `OpenCV` `RViz` `ArUco Markers`
-
----
-
-### 🏭 AI-Powered Industrial Signal Processing System
-
-**Neural Networks for Predictive Maintenance**
-
-- Engineered ANN/CNN models for real-time signal integrity classification
-- Implemented edge-AI monitoring for predictive maintenance
-- Deployed anomaly detection system for manufacturing environments
-
-**Tech Stack:** `Python` `TensorFlow` `Edge AI` `Industrial IoT`
-
----
-
-### 🦾 Integrated Robotic Automation Platform
-
-**Multi-DOF Robotic Arm with Omnidirectional Base**
-
-- Built and controlled multi-DOF robotic arm for factory automation
-- Developed adaptive motion planning and precision manipulation algorithms
-- Implemented using ROS framework for industrial applications
-
-**Tech Stack:** `ROS` `C++` `Python` `Motion Planning` `Robotics`
-
----
-
-## 📜 Certifications
-
-### ☁️ AWS Training
-
-- � Amazon SageMaker JumpStart Foundations
-- 🧠 Building Language Models on AWS
-- 🎯 Customizing and Evaluating LLMs Using Amazon SageMaker JumpStart
-- 🤖 No-code Machine Learning and Generative AI on AWS
-
-### 🎓 DeepLearning.AI
-
-- � ChatGPT Prompt Engineering for Developers
-
-### 🤗 Hugging Face
-
-- 🤖 Fundamentals of AI Agents
-
-### 💼 LinkedIn Learning
-
-- 🧠 What Is Generative AI?
-- 🔍 Generative AI: The Evolution of Thoughtful Online Search
+</div>
 
 ---
 
@@ -260,6 +168,8 @@ I'm always interested in collaborating on innovative AI and robotics projects, e
 ---
 
 <div align="center">
+
+<img src=".github/assets/journey.png" alt="Developer Journey" width="700"/>
   
 ### 💡 *"Building intelligent systems that bridge the gap between AI and the physical world"*
 
