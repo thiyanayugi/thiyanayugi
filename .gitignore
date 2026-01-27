@@ -1,0 +1,11 @@
+
+# Agent configuration
+.agent/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
