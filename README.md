@@ -9,6 +9,15 @@
 
 </div>
 
+
+<div align="center">
+
+## 🎮 My GitHub Activity Game
+
+<img src="assets/space-shooter.gif" />
+
+</div>
+
 ---
 
 ## 🚀 About Me
