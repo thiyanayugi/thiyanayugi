@@ -1,4 +1,4 @@
-![Header Banner](.github/assets/header.png)
+![Header Banner](.github/assets/hero-pro-max.png)
 
 <div align="center">
 
@@ -22,284 +22,170 @@
 
 ## 🚀 About Me
 
-**Graduate Engineer in Automation and Robotics** specializing in **AI-driven systems**, **generative AI**, and **autonomous robotics**. Completing my Master's at **Technical University Dortmund**, I combine cutting-edge AI technologies with real-world robotic applications to build intelligent, scalable solutions.
+> **Identity_Matrix**
+
+**AI Engineer & Robotics Specialist** architecting the synapse between digital intelligence and physical action.
+
+As a **Graduate Researcher in Automation & Robotics** at **TU Dortmund**, I don't just write code; I architect **embodied agents** that perceive, reason, and interact with the real world. My work fuses **Generative AI** with robust **Robotic Control**, transforming static models into dynamic systems. From orchestrating **Multi-Agent swarms** to deploying **6G-enabled perception**, I focus on the hard edge of innovation where AI meets Physics.
 
 🎯 **Current Focus**
-- 👁️ Computer vision and perception systems for autonomous robotics
-- 🤖 Generative AI solutions and intelligent automation tools
-- 🧠 Multi-agent AI systems for robotic automation
-- 📡 LLM fine-tuning, RAG architectures, and knowledge graph solutions
-
----
-
-## 🌟 Featured Projects
-
-### 🧠 Collaborative Perception GNN - 6G-Enabled Warehouse Intelligence
-**Master's Thesis Project | TU Dortmund**
-
-Advanced collaborative perception framework leveraging Graph Neural Networks and mmWave radar technology for intelligent warehouse automation.
-
-**Tech Stack:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
-![GNN](https://img.shields.io/badge/Graph_Neural_Networks-FF6B6B?style=flat)
-
-**Key Achievements:**
-- Developed 6G-enabled collaborative perception framework using mmWave radar technology
-- Implemented Graph Neural Networks for warehouse environment prediction
-- Conducted validation with dual robotic platforms and motion capture systems
-- Advanced state-of-the-art in multi-robot perception and coordination
-
-**Status:** 🔬 In Progress (Jan 2025 - Jul 2025)
-
----
-
-### 👁️ RoboVision-3D - Real-Time 3D Object Detection
-**Computer Vision for Robotics**
-
-Comprehensive 3D object detection system for autonomous robots, combining point cloud processing with real-time perception capabilities.
-
-**Tech Stack:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
-
-**Key Achievements:**
-- Built modular pipeline for object detection, point cloud processing, and map alignment
-- Implemented real-time 3D object detection with optimized inference
-- Integrated LiDAR and camera sensor fusion for robust perception
-- Deployed on embedded systems for edge robotics applications
-
-[📂 View Repository](https://github.com/thiyanayugi)
-
----
-
-### 🤖 Multi-Modal AI Framework
-**Advanced AI System for Multi-Modal Processing**
-
-Comprehensive AI framework integrating vision, text, and sensor data for complex decision-making tasks in robotics and automation.
-
-**Tech Stack:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=flat)
-
-**Key Achievements:**
-- Designed multi-modal fusion architecture for vision, language, and sensor data
-- Implemented attention mechanisms for cross-modal information integration
-- Integrated state-of-the-art foundation models (CLIP, LLaVA, GPT-4V)
-- Achieved robust performance on complex reasoning tasks
-
-[📂 View Repository](https://github.com/thiyanayugi)
-
----
-
-### 🦜 Crew AI Multi-Agent System
-**LLM-Powered Collaborative Intelligence**
-
-Intelligent multi-agent automation system powered by large language models, enabling autonomous task decomposition and collaborative problem-solving.
-
-**Tech Stack:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=flat)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=flat)
-![Claude](https://img.shields.io/badge/Claude-181818?style=flat&logo=anthropic&logoColor=white)
-
-**Key Achievements:**
-- Built multi-agent system with role-based task distribution
-- Integrated Claude API for advanced reasoning and code generation
-- Implemented dynamic workflow orchestration and error recovery
-- Deployed automated content creation and research pipelines
-
-[📂 View Repository](https://github.com/thiyanayugi)
+- 🦾 **Autonomous Robotics**: Integrating advanced perception and control systems.
+- 🧠 **Generative AI**: Building intelligent agents and content creation pipelines.
+- 👁️ **Computer Vision**: Real-time 3D object detection and semantic understanding.
+- 📡 **6G Collaborative Perception**: Next-gen communication for multi-robot systems.
 
 ---
 
 ## 🛠️ Technical Arsenal
 
-### **AI & Machine Learning**
-
+### **💻 Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+### **🧠 AI & Machine Learning**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-
-**Specializations:**
-- 🧠 Deep Learning, Computer Vision, NLP, Reinforcement Learning
-- 🤖 LLM Fine-tuning, Prompt Engineering, RAG Architectures
-- 📊 Knowledge Graphs, Vector Databases, Semantic Search
-
-**LLM & GenAI Tools:**
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=flat)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-181818?style=flat&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google&logoColor=white)
 
----
+### **✨ Generative AI & LLMs**
+![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=flat)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=flat)
+![AutoGen](https://img.shields.io/badge/AutoGen-000000?style=flat)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-0052CC?style=flat)
+![Vector DB](https://img.shields.io/badge/Vector_DB-00F0FF?style=flat)
 
-### **Robotics & Automation**
-
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+### **🤖 Robotics & Automation**
+![ROS/ROS2](https://img.shields.io/badge/ROS/ROS2-22314E?style=flat&logo=ros&logoColor=white)
+![Isaac Sim](https://img.shields.io/badge/NVIDIA_Isaac_Sim-76B900?style=flat&logo=nvidia&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF6B6B?style=flat)
+![MoveIt](https://img.shields.io/badge/MoveIt-5C95EE?style=flat)
+![SLAM](https://img.shields.io/badge/SLAM-FF5733?style=flat)
+![LiDAR](https://img.shields.io/badge/LiDAR-FFC300?style=flat)
+![PCL](https://img.shields.io/badge/PCL-008080?style=flat)
 
-**Platforms & Tools:**
-- 🤖 ROS/ROS2, Gazebo, MoveIt, Nav2
-- 📡 Sensor Fusion: LiDAR, IMU, Camera, mmWave Radar
-- 🗺️ SLAM, Path Planning, Motion Control
-- 🏭 Industrial Automation, Fleet Management
-
----
-
-### **Cloud & MLOps**
-
+### **☁️ Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-**Expertise:**
-- ☁️ AWS SageMaker, Lambda, EC2, Model Deployment
-- 🐳 Docker, Kubernetes, CI/CD Pipelines
-- 📈 MLOps, Model Monitoring, Scalable Deployments
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-### **Development Tools**
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-## 💼 Professional Experience
+## 💼 Execution Logs (Experience)
 
 <details>
-<summary><b>🔬 Research Assistant | TU Dortmund</b> <i>(Jun 2024 - May 2025)</i></summary>
+<summary><b>🔬 Research Assistant | TU Dortmund</b> <i>(Jun 2024 – May 2025)</i></summary>
 
 **Information Processing Laboratory**
+- Designed deep learning models for intelligent signal interpretation in complex electromagnetic systems.
+- Applied reinforcement learning for adaptive optimization and real-time parameter tuning in dynamic environments.
+- Improved signal processing precision in high-frequency industrial applications via supervised ML techniques.
 
-- Designed deep learning models for intelligent signal interpretation in electromagnetic systems
-- Applied reinforcement learning for adaptive optimization in dynamic environments
-- Improved signal processing precision using supervised ML techniques
-- Published research findings in IEEE conferences
-
+**Stack:** Python, PyTorch, TensorFlow, RL
 </details>
 
 <details>
-<summary><b>📚 Master's Thesis | TU Dortmund</b> <i>(Jan 2025 - Jul 2025)</i></summary>
+<summary><b>📚 Master's Thesis | FLW (TU Dortmund)</b> <i>(Jan 2025 – Jul 2025)</i></summary>
 
-**Chair of Material Handling and Warehousing**
+**Collaborative Robotic Perception**
+- Developed 6G-enabled collaborative perception for multi-robot systems using mmWave radar technology.
+- Implemented Graph Neural Networks architectures for real-time occupancy prediction in warehouse environments.
+- Conducted comprehensive validation using dual robotic platforms with motion capture ground truth systems.
 
-- Developed 6G-enabled collaborative perception framework using mmWave radar technology
-- Implemented Graph Neural Networks for warehouse environment prediction
-- Conducted validation with dual robotic platforms and motion capture systems
-- Advanced state-of-the-art in multi-robot collaborative perception
-
+**Stack:** Python, GNN, mmWave Radar, ROS
 </details>
 
 <details>
-<summary><b>🤖 Robotics Engineering Intern | Pricol Limited</b> <i>(Nov 2021 - Jun 2022)</i></summary>
+<summary><b>🤖 Robotics Engineering Intern | Pricol Limited</b> <i>(Nov 2021 – Jun 2022)</i></summary>
 
 **Autonomous Systems**
+- Designed and deployed Autonomous Mobile Robot for industrial logistics and inspection automation applications.
+- Integrated LiDAR, IMU, and camera systems for robust SLAM-based navigation in dynamic industrial environments.
+- Developed real-time path planning and obstacle avoidance algorithms using ROS framework.
 
-- Designed and deployed Autonomous Mobile Robot for industrial logistics
-- Integrated LiDAR, IMU, and camera systems for SLAM-based navigation
-- Developed real-time path planning and obstacle avoidance algorithms
-- Reduced material handling time by 40% through autonomous fleet deployment
-
+**Stack:** ROS, Python, C++, LiDAR, SLAM
 </details>
+
+---
+
+## 🌟 Deployed Modules (Featured Projects)
+
+| Project | Description | Tech Stack |
+|:---|:---|:---|
+| **[AutoGen Content Pipeline](https://github.com/thiyanayugi/AutoGen-Agent-Orchestrated-Content-Framework)** | Enterprise-grade multi-agent AI system designed to automate end-to-end content creation workflows. | Autogen, DeepSeek |
+| **[RoboVision-3D](https://github.com/thiyanayugi/RoboVision-3D)** | Computer Vision system for Indoor Robotics with Multi-Sensor Fusion integrating RGB-D cameras and LiDAR. | Python, YOLOv8, ROS |
+| **[Context-Aware Chatbot](https://github.com/thiyanayugi/context-aware-chatbot)** | Production-style LLM chatbot with intelligent context window management, long-term memory, and safety guardrails. | Python, LLM, Vector DB |
+| **[Autonomous Market Intel](https://github.com/thiyanayugi/Autonomous-Market-Intelligence-System-Using-Multi-Agent-AI-CrewAI-)** | CrewAI-powered multi-agent system with four specialized agents for autonomous market intelligence. | CrewAI, Claude, RAG |
+| **[Autolearn AI Platform](https://github.com/thiyanayugi/teaching-website)** | Production Web Platform with Claude API-powered Chatbot and AI-driven personalized email generation system. | JS, Claude API, Cloud Run |
+| **[AI-Based PCB Design](https://github.com/thiyanayugi/AI-Based-SI-Compliant-PCB-Design)** | Neural Networks for Predictive Maintenance with real-time signal integrity classification. | TensorFlow, Edge AI |
+| **[Edge Detection 3D Vision](https://github.com/thiyanayugi/ros-edge-detection-3d)** | 3D Vision System with Real-Time Image Processing and modular edge detection with ROS. | ROS, OpenCV, RViz |
+| **[GraphRAG Knowledge Graph](https://github.com/thiyanayugi/Knowledge-Graph-Enhanced-Retrieval-Augmented-Generation)** | Production-ready RAG system combining knowledge graphs with vector search for multi-hop reasoning. | GraphDB, Vector, Gradio |
+| **[AI Document Explainer](https://github.com/thiyanayugi/ai-document-explainer)** | Production-ready AI tool helping international students understand official documents with GPT-4. | Python, GPT-4, Streamlit |
+| **[Robotic Automation Platform](https://github.com/thiyanayugi)** | Multi-DOF Robotic Arm with Omnidirectional Base for factory automation with adaptive motion. | ROS, Motion Planning |
+| **[Multi-modal AI Framework](https://github.com/thiyanayugi/Multi-Modal-AI-Framework-for-Robotic-Task-Automation)** | Multi-Agent System integrating CLIP vision, GPT-3.5 NLP, and RAG for robotic task planning. | LangChain, CLIP, RAG |
+| **[LinkedIn Job Automation](https://github.com/thiyanayugi/linkedin-job-automation)** | Automated LinkedIn job search and application tracking system with intelligent filtering. | Python, Scraping |
+
+---
+
+## 📜 Encrypted Credentials (Certifications)
+
+- 🏅 **Generative AI Learning Plan** - AWS
+- 🏅 **AI Agents with HuggingFace** - HuggingFace
+- 🏅 **No-Code ML & GenAI on AWS** - AWS
+- 🏅 **ChatGPT Prompt Engineering** - DeepLearning.AI
+
+---
+
+## 🔬 Research Output
+
+- 📄 **RFID based Human Following Load Carrier** | *NVEO Journal (2021)*
+- 📄 **Development Of Robotic Arm On An Omnidirectional Base** | *NVEO Journal (2021)*
 
 ---
 
 ## 🎓 Education
 
-### 🎓 Master of Science in Automation and Robotics
-**Technical University Dortmund** | _October 2022 - July 2026_
-
-- Specialization: AI-driven systems, autonomous robotics, sensor fusion
-- Research: 6G-enabled collaborative perception, Graph Neural Networks
-- Thesis: Collaborative Perception for Warehouse Automation using GNNs
-
-### 🎓 Bachelor of Engineering in Robotics and Automation
-**PSG College of Technology** | _July 2018 - May 2022_
-
-- Focus: Industrial automation, mobile robotics, control systems
-- Capstone: Autonomous Mobile Robot for industrial logistics
+- **Master of Science in Automation and Robotics** | TU Dortmund (2022 - 2026)
+- **Bachelor of Engineering in Robotics and Automation** | PSG College of Technology (2018 - 2022)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Neural Statistics
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiyanayugi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=C9D1D9)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thiyanayugi&theme=tokyonight&hide_border=true&background=0D1117&stroke=64FFDA&ring=64FFDA&fire=FF6B6B&currStreakLabel=64FFDA)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiyanayugi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=C9D1D9)
 
 </div>
 
 ---
 
-## 🎯 Currently Open to Opportunities
-
-I'm actively seeking **full-time positions in Germany** 🇩🇪 in:
-
-- 🤖 **AI/ML Engineering** - LLM applications, computer vision, GenAI
-- 🦾 **Robotics Engineering** - Autonomous systems, perception, SLAM
-- 🏭 **Automation Engineering** - Industrial AI, smart manufacturing
-- 🔬 **Research Positions** - AI for robotics, collaborative perception
-
-**What I Bring:**
-- Strong foundation in AI, robotics, and automation
-- Proven track record with real-world projects and research
-- Hands-on experience with modern LLMs (GPT-4, Claude, Gemini)
-- Expertise in ROS/ROS2 and embedded robotics systems
-- Passion for building intelligent, scalable solutions
-
----
-
-## 🌐 Languages
-
-- 🇬🇧 **English** - C2 (Proficient)
-- 🇩🇪 **German** - B2 (In Progress)
-
----
-
-## 📫 Let's Connect!
-
-I'm always interested in collaborating on innovative AI and robotics projects. If you're working on something exciting or have opportunities that align with my expertise, let's talk!
-
 <div align="center">
+
+## 📡 End Transmission
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-FF6B6B?style=for-the-badge)](https://thiyanayugi.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiyanayugi-mariraj-a2b1b820b)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yugimariraj01@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+49_163_4253579-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+491634253579)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/thiyanayugi-mariraj-a2b1b820b)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:yugimariraj01@gmail.com)
 
-</div>
-
----
-
-<div align="center">
-
-### 💡 *"Building intelligent systems that bridge the gap between AI and the physical world"*
-
----
-
-### ⭐ If you find my work interesting, feel free to star my repositories!
-
-![Profile Views](https://komarev.com/ghpvc/?username=thiyanayugi&color=64FFDA&style=flat-square)
+*"Architecting the synapse between digital intelligence and physical action."*
 
 </div>
