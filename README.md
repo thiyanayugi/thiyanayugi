@@ -122,42 +122,9 @@ As a **Graduate Researcher in Automation & Robotics** at **TU Dortmund**, I don'
 **Stack:** ROS, Python, C++, LiDAR, SLAM
 </details>
 
----
-
-## 🌟 Deployed Modules (Featured Projects)
-
-| Project | Description | Tech Stack |
-|:---|:---|:---|
-| **[AutoGen Content Pipeline](https://github.com/thiyanayugi/AutoGen-Agent-Orchestrated-Content-Framework)** | Enterprise-grade multi-agent AI system designed to automate end-to-end content creation workflows. | Autogen, DeepSeek |
-| **[RoboVision-3D](https://github.com/thiyanayugi/RoboVision-3D)** | Computer Vision system for Indoor Robotics with Multi-Sensor Fusion integrating RGB-D cameras and LiDAR. | Python, YOLOv8, ROS |
-| **[Context-Aware Chatbot](https://github.com/thiyanayugi/context-aware-chatbot)** | Production-style LLM chatbot with intelligent context window management, long-term memory, and safety guardrails. | Python, LLM, Vector DB |
-| **[Autonomous Market Intel](https://github.com/thiyanayugi/Autonomous-Market-Intelligence-System-Using-Multi-Agent-AI-CrewAI-)** | CrewAI-powered multi-agent system with four specialized agents for autonomous market intelligence. | CrewAI, Claude, RAG |
-| **[Autolearn AI Platform](https://github.com/thiyanayugi/teaching-website)** | Production Web Platform with Claude API-powered Chatbot and AI-driven personalized email generation system. | JS, Claude API, Cloud Run |
-| **[AI-Based PCB Design](https://github.com/thiyanayugi/AI-Based-SI-Compliant-PCB-Design)** | Neural Networks for Predictive Maintenance with real-time signal integrity classification. | TensorFlow, Edge AI |
-| **[Edge Detection 3D Vision](https://github.com/thiyanayugi/ros-edge-detection-3d)** | 3D Vision System with Real-Time Image Processing and modular edge detection with ROS. | ROS, OpenCV, RViz |
-| **[GraphRAG Knowledge Graph](https://github.com/thiyanayugi/Knowledge-Graph-Enhanced-Retrieval-Augmented-Generation)** | Production-ready RAG system combining knowledge graphs with vector search for multi-hop reasoning. | GraphDB, Vector, Gradio |
-| **[AI Document Explainer](https://github.com/thiyanayugi/ai-document-explainer)** | Production-ready AI tool helping international students understand official documents with GPT-4. | Python, GPT-4, Streamlit |
-| **[Robotic Automation Platform](https://github.com/thiyanayugi)** | Multi-DOF Robotic Arm with Omnidirectional Base for factory automation with adaptive motion. | ROS, Motion Planning |
-| **[Multi-modal AI Framework](https://github.com/thiyanayugi/Multi-Modal-AI-Framework-for-Robotic-Task-Automation)** | Multi-Agent System integrating CLIP vision, GPT-3.5 NLP, and RAG for robotic task planning. | LangChain, CLIP, RAG |
-| **[LinkedIn Job Automation](https://github.com/thiyanayugi/linkedin-job-automation)** | Automated LinkedIn job search and application tracking system with intelligent filtering. | Python, Scraping |
 
 ---
 
-## 📜 Encrypted Credentials (Certifications)
-
-- 🏅 **Generative AI Learning Plan** - AWS
-- 🏅 **AI Agents with HuggingFace** - HuggingFace
-- 🏅 **No-Code ML & GenAI on AWS** - AWS
-- 🏅 **ChatGPT Prompt Engineering** - DeepLearning.AI
-
----
-
-## 🔬 Research Output
-
-- 📄 **RFID based Human Following Load Carrier** | *NVEO Journal (2021)*
-- 📄 **Development Of Robotic Arm On An Omnidirectional Base** | *NVEO Journal (2021)*
-
----
 
 ## 🎓 Education
 
